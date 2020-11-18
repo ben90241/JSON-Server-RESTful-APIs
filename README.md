@@ -2,4 +2,4 @@
 Powershell  
 /> node -V  
 /> npm -V  
-/> json-server -w data.json --routes routes.json  
+/> json-server --watch data.json --routes routes.json  
